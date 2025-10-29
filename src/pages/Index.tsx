@@ -507,18 +507,13 @@ const YuleBallPromposal = () => {
       },
       {
         question: "What's my favorite thing about you?",
-        options: ["Your smile", "Your eyes", "Your kamar", "Your ass"],
+        options: ["Your smile", "Your eyes", "Your dressing sense", "Your work ethic"],
         correct: 1
       },
       {
         question: "How many days did Parth wait before finally asking you out?",
         options: ["2 days", "5 days", "10 days", "15 days"],
         correct: 0
-      },
-      {
-        question: "How many attempts did it take me to finally kiss you?",
-        options: ["1", "2", "3", "4"],
-        correct: 2
       },
       {
         question: "When did we go on our first date together?",
