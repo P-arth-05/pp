@@ -424,21 +424,12 @@ const YuleBallPromposal = () => {
                 </div>
               </div>
               <div className="p-2 text-center" style={{ color: '#EFEEE9' }}>
-                Random Night Selfie #1
+                Random Night Selfie 
               </div>
             </div>
 
             {/* Bogey 4 */} 
-            <div className="flex-shrink-0 w-64 h-64 rounded-lg border-4 overflow-hidden" style={{ borderColor: '#C39A1C', backgroundColor: '#1a2830' }}>
-              <div className="w-full h-3/4 bg-gray-700 flex items-center justify-center">
-                <div className="text-center" style={{ color: '#717679' }}>
-                  <img src="photo5.png" alt="Photo 5" className="w-full h-full object-cover" /><br/>  
-                </div>  
-              </div>  
-              <div className="p-2 text-center" style={{ color: '#EFEEE9' }}>  
-                Random Night Selfie #2
-              </div>  
-            </div> 
+            
 
             {/* Bogey 5 */}
             <div className="flex-shrink-0 w-64 h-64 rounded-lg border-4 overflow-hidden" style={{ borderColor: '#C39A1C', backgroundColor: '#1a2830' }}>  
@@ -454,17 +445,7 @@ const YuleBallPromposal = () => {
 
 
             {/* Bogey 6 */}
-             <div className="flex-shrink-0 w-64 h-64 rounded-lg border-4 overflow-hidden" style={{ borderColor: '#C39A1C', backgroundColor: '#1a2830' }}>
-              <div className="w-full h-3/4 bg-gray-700 flex items-center justify-center">
-                <div className="text-center" style={{ color: '#717679' }}>
-                  <video src="video1.mp4" autoPlay loop muted className="w-full h-full object-cover" />
-                </div>
-              </div>
-              <div className="p-2 text-center" style={{ color: '#EFEEE9' }}>
-                Random Night Video 
-              </div>
-            </div>
-
+             
             {/* Bogey 7 */}
             <div className="flex-shrink-0 w-64 h-64 rounded-lg border-4 overflow-hidden" style={{ borderColor: '#C39A1C', backgroundColor: '#1a2830' }}>
               <div className="w-full h-3/4 bg-gray-700 flex items-center justify-center">
